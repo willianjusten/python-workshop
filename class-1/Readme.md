@@ -1,5 +1,10 @@
 ## Resumo Class 1
 
+### Material
+
+- [Slides Apresentação](http://willianjusten.com.br/python-class-1/)
+- [Documentação da Linguagem Python](http://turing.com.br/pydoc/2.7/contents.html)
+
 ### Rodando Python
 
 Temos 2 formas de rodar Python:
