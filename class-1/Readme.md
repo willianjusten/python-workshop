@@ -83,6 +83,17 @@ Existem diversos tipos de variáveis em Python, mas para esse início, vimos 4 d
 - **string**: um conjunto de caracteres, que pode ser uma palavra ou frases.
 - **boolean**: variável que indica `True` ou `False`
 
+#### Type Casting
+
+Podemos mudar o tipo de uma variável ou determinar que tipo a variável que vamos receber deverá ser. Exemplo:
+
+```python
+
+a = int(input('Digite um número: ')) 
+```
+
+No exemplo de cima, estamos dizendo que o valor passado pelo usuário será convertido para int, caso seja possível.
+
 ### Descobrindo métodos de um objeto
 
 Como dito, tudo em Python é um objeto, portanto, cada objeto possui métodos builtin de Python. Para descobrir os métodos de um objeto, basta usar o comando `dir`.
